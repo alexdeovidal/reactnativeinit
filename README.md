@@ -1,2 +1,2 @@
 # reactnativeinit
-init curse react native 
+init curse react native :)
